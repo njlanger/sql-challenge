@@ -6,7 +6,9 @@ A column header in the ‘titles’ table was changed from “title_id” to “
 
 Enterprise Relationship Diagram:
 The enterprise relationship diagram (EDR) was developed using the below website:
+
 https://app.quickdatabasediagrams.com/
+
 Once the ERD is constructed the tool allows one to export to the appropriate SQL application. This is how the tables were created in PostgreSQL.
 
 SQL application:
